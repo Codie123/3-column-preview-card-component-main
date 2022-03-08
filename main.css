@@ -90,14 +90,14 @@ body {
   border-radius: 1.5625rem;
   border: 1px solid hsl(0, 0%, 95%);
   background: hsl(0, 0%, 95%);
-  padding: 15px 25px;
+  padding: 10px 25px;
   text-align: center;
 }
 .btn-info:hover {
   background: none;
   color: hsl(0, 0%, 95%);
-  border: 2px solid hsl(0, 0%, 95%);
-  transition: all 0.2s ease-in;
+  border: 1px solid hsl(0, 0%, 95%);
+  transition: all 0.2s ease-ou;
 }
 .og {
   color: hsl(31, 77%, 52%);
